@@ -1,1 +1,2 @@
 # odin-recipes
+This a project to showcase the skills that I have gained in html from the odin project.  I am making a simple website that will have an index page that links to other pages hosting the recipes. 
